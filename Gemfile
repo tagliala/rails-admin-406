@@ -12,6 +12,8 @@ gem 'mysql2'
 gem 'rails_admin'
 gem 'strong_parameters'
 
+gem 'unicorn'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
