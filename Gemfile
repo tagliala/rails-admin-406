@@ -11,9 +11,6 @@ gem 'mysql2'
 
 gem 'rails_admin'
 gem 'strong_parameters'
-gem 'rails_admin_globalize', github: 'diowa/rails_admin_globalize', branch: 'diowa-fixes'
-gem 'rails_admin_nestable'
-gem 'rich'
 
 # Gems used only for assets and not required
 # in production environments by default.
