@@ -24,7 +24,6 @@ group :assets do
 end
 
 gem 'jquery-rails'
-#gem 'route_translator', github: 'enriclluelles/route_translator', ref: '173e2e4bec8990d8b708d350ce5bf919d3cb1c00'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
