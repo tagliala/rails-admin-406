@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
-ruby '2.1.0'
+ruby '2.1.1'
 
-gem 'rails', '3.2.16'
+gem 'rails', '3.2.17'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -24,7 +24,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'route_translator', github: 'enriclluelles/route_translator'
+gem 'route_translator', github: 'enriclluelles/route_translator', ref: '173e2e4bec8990d8b708d350ce5bf919d3cb1c00'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
